@@ -12,7 +12,7 @@ This project was developed as part of a university software development project.
 
 https://localhost/lostlink
 
-**Repository:** https://github.com/snozzz999/LOSTLINK
+**Repository:** https://github.com/rohankhadkaa/Lostlink.git
 
 ---
 
